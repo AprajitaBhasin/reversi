@@ -8,4 +8,6 @@ following rules:
 2. A move is only valid if it turns at least one opponent’s stone.
 3. If a player has no valid moves, their turn is skipped.
 4. The game ends when both players have no legal moves.
+
+
 When the game ends, each player scores points equal to the number of stones which have their colour face up, and the player with a higher score wins (draw if scores equal).
